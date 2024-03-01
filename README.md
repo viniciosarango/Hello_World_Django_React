@@ -1,9 +1,6 @@
-Esto es un repositorio basico para aprender git y github.
-Que me permite conocer los comnados basicos, linea modificdas.
-Tercera linea.
 
 # git y github
 
-![Git y GitHub] (img/entrenamiento-personalizado_)
+![Git y GitHub](img/entrenamiento-personalizado_1920x1080.jpg) 
 
-Sigo modificando mi cambio.
+Esto es un repositorio basico para aprender git y github.
